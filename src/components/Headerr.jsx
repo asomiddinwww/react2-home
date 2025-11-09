@@ -2,7 +2,7 @@ import Logo from "../assets/img/Logo.png";
 import Sun from "../assets/img/sun.jpg";
 import Moon from "../assets/img/mon.png";
 import login from "../assets/img/login.png";
-import icon from "../assets/img/icon.png";
+import icon from "../assets/img/Icon.png";
 import { useState } from "react";
 
 const Headerr = () => {
