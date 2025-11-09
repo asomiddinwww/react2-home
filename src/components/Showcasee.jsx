@@ -1,11 +1,10 @@
-import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "../index.css";
 import swiperimg from '../assets/img/swiperimg.png'
-import sear from '../assets/img/search.png'
+import sear from '../assets/img/Search.png'
 
 import { Navigation, Pagination, Mousewheel, Keyboard } from "swiper/modules";
 
