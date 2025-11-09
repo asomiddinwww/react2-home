@@ -1,0 +1,24 @@
+.swiper-slide {
+    width: 400px !important;
+}
+.swiper-pagination {
+    position: absolute;
+    bottom: 0 !important;
+}
+.swiper-wrapper {
+    display: flex; 
+    align-items: center;
+    gap: 22.2rem;
+    padding-bottom: 30px !important;
+}
+.swiper-pagination-horizontal {
+    position: absolute;
+    bottom: 0 !important;
+    margin-top: 340px;
+    z-index: 9999999 !important;
+}
+@media(max-width:1200px) {
+    .swiper-wrapper {
+    gap: 6.5rem;
+}
+}

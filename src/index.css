@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.swiper-button-next {
+    position: absolute; 
+    bottom: 100px !important;
+}
